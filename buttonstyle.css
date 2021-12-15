@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.click{
+    background-color: white;
+    border: 5px solid aqua;
+    font-family: cursive;
+    width: 200px;
+    height: 50px;
+    margin: 2%;
+    border-radius: 50px;
+    font-size: 24px;
+}
+.hover{
+    margin: 2%;
+    border: 5px solid aqua;
+    background-color: aqua;
+    border-radius: 50%;
+    text-decoration: solid;
+    color: white;
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+}
+.hover:hover{
+    background-color: blue;
+    color: black;
+}
+.submit{
+    margin: 2%;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    width: 200px;
+    height: 60px;
+    box-shadow: 10px 10px black;
+    border: 5px solid black;
+}
